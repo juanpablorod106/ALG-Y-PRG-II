@@ -1,0 +1,11 @@
+              LOS POLLOS HERMANOS CINEMA             
+-----------------------------------------------------
+ Sala: SALA 1
+ Asiento: F6
+ Hora de la Funcion: 18:00
+ Fecha de la Funcion: 13/04/24
+ Nombre de la Pelicula: OPPENHEIMER
+ Nombre: JUAN
+ Apellido: RODRIGUEZ
+ Cedula: 31.021.385
+-----------------------------------------------------
